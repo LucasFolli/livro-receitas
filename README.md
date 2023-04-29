@@ -2,5 +2,5 @@
 
 Bem vindo ao livro de receitas aleatórias e duvidosas :book::bomb:
 
-- Strogonoff de Frango
+- [Strogonoff de Frango](receitas/strogonoff.md)
 
